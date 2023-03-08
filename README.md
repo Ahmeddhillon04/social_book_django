@@ -1,2 +1,2 @@
 ###### 
-### Python project for a social media project using Django 
+### Python project for a social media project using Django HTML CSS and javascript
